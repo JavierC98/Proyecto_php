@@ -1,0 +1,1 @@
+Para el uso de la base de datos importar (en el caso que yo use fue phpmyadmin) la base de datos que se llama mi_sitio y así poder utilizar el código y sitio web que se accede con el link: http://localhost/Proyectophp/login.php
